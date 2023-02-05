@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/digiemploy/static/js/main.c7b7536b.js",
+    "index.html": "/digiemploy/index.html",
+    "main.c7b7536b.js.map": "/digiemploy/static/js/main.c7b7536b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c7b7536b.js"
+  ]
+}
